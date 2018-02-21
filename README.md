@@ -1,2 +1,3 @@
 # test-git
-Rhis is first repository
+This is first repository
+This is for tutorial purpose.
